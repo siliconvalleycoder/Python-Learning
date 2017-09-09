@@ -1,2 +1,2 @@
 @echo off 
-python helloworld.py 
+python basic_calc.py 
